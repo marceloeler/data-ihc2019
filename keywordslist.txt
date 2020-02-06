@@ -1,0 +1,222 @@
+accessibility
+accessible
+disabled user
+disabled person
+screenreader
+assistive
+talkback
+operable
+perceivable
+understandable
+wcag
+impaired
+impairment
+distinguishable
+focusable
+switch device
+contrast
+background colour
+background color
+color blind
+colour blind
+distinguishable
+impaired
+impairment
+screen reader
+non-visual
+visual cues
+text equivalent
+contentDescription
+content description
+older device
+unsupported style
+missing layout
+missing image
+touch size
+touch target
+target area
+small control
+small button
+small widget
+spacing
+overlap
+inactive space
+minimum space
+small control
+content resizing
+font sizing
+vision impairment
+screen glare
+zoom
+text resizing
+text resize
+scaling
+magnify
+actionable element
+distinguishable
+clear label
+actionable
+non-actionable
+executable
+non-executable
+visible focus
+focusable 
+distinguishable
+consistency
+navigational aids
+assistive technology
+adjustability
+adjustable
+blind mode
+dark mode
+light mode
+text size
+flicker
+flash
+eyestrain
+dizziness
+fatigue
+headache
+migraine
+nausea
+photosensitive 
+epilepsy
+vertigo
+hearing loss
+seizures
+unique label
+missing label
+label absent
+no label
+explicit labels 
+content description
+contentDescription
+default input format 
+content description
+screen reader
+visible labels
+label place
+verbosity
+properly grouped
+focusable
+focus
+images of text
+svg image
+text alternative
+non-visual
+hidden text
+aria label
+background image
+decorative background
+text equivalent
+alternative text
+non-visual
+non-text
+blind
+screenreader
+screen reader
+verbose
+verbosity
+content description
+contentDescription
+decorative content
+decorative image
+decorative element
+hint
+tooltip
+suplementary information
+accessibility properties
+assistive technology
+visual formatting
+non-visual alternative
+alternative text
+hidden text
+accessibility label
+non-visual way
+subtitle
+sign language
+audio description
+transcript
+audible content
+play automatic
+plays automatic
+autoplay
+auto-play
+pause button
+stop button
+mute
+unexpected audio
+metadata
+volume
+narrative audio
+audio conflict
+self-voicing
+self voicing
+consistent label
+default language
+keyboard language
+choose language
+change language
+select language
+visual cue
+audio cue
+focusable
+control focus
+change focus
+have focus
+leave focus
+keyboard trap
+content order
+widget order
+button order
+component order
+logical order
+focus order
+navigable
+disorientating
+disorientation
+disorientating
+logical sequence
+input method
+input type
+link description
+unique description
+unique label
+unexpectedly opening
+unexpect open
+alternative format
+repeated link
+duplicate link
+haptic
+vibration alert
+vibration feedback
+alert dialog
+clear error message
+assistance
+unfamiliar
+animated content
+page refresh
+timeout
+timing out
+adaptable
+control key
+complex control
+input sign
+page title
+screen title
+heading
+header
+container
+landmark
+grouped 
+text reflow
+hard to see
+can't see
+cannot see
+customization
+personalization
+colour coding
+readable
+black mode
+white mode
+speech synthesizer
